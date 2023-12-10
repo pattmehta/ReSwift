@@ -22,17 +22,17 @@ Check out our [public gitter chat!](https://gitter.im/ReSwift/public)
 
 # Table of Contents
 
-- [About ReSwift](#about-reswift)
-- [Why ReSwift?](#why-reswift)
-- [Getting Started Guide](#getting-started-guide)
-- [Installation](#installation)
-- [Checking Out Source Code](#checking-out-source-code)
-- [Demo](#demo)
-- [Extensions](#extensions)
-- [Example Projects](#example-projects)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [Get in touch](#get-in-touch)
+1. [About ReSwift](#about-reswift)
+2. [Why ReSwift?](#why-reswift)
+3. [Getting Started Guide](#getting-started-guide)
+4. [Installation](#installation)
+5. [Checking Out Source Code](#checking-out-source-code)
+6. [Demo](#demo)
+7. [Extensions](#extensions)
+8. [Example Projects](#example-projects)
+9. [Contributing](#contributing)
+10. [Credits](#credits)
+11. [Get in touch](#get-in-touch)
 
 # About ReSwift
 
