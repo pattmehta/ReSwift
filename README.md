@@ -209,24 +209,7 @@ github "ReSwift/ReSwift"
 
 ## Accio
 
-You can install ReSwift via [Accio](https://github.com/JamitLabs/Accio) by adding the following line to your `Package.swift`:
-
-```swift
-.package(url: "https://github.com/ReSwift/ReSwift.git", .upToNextMajor(from: "6.0.0")),
-```
-
-Next, add `ReSwift` to your App targets dependencies like so:
-
-```swift
-.target(
-    name: "App",
-    dependencies: [
-        "ReSwift",
-    ]
-),
-```
-
-Then run `accio update`.
+Support is removed in favor of SwiftPM (more info at [accio](https://github.com/JamitLabs/Accio#initialization))
 
 ## Swift Package Manager
 
